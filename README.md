@@ -1,4 +1,4 @@
--👋 Hi, I’m @vinay10000
+-👋 Hi, I’m Vinay
 - 👀 I’m interested in learning new stuff
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on ...
