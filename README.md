@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **AWS,DOCKER,WEB SOCKETS**
 
-- 👨‍💻 All of my projects are available at [mvinay.me](mvinay.me)
+- 👨‍💻 My Portfolio [mvinay.me](mvinay.me)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
